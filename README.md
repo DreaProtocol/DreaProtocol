@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrea (DreaProtocol)
 
-🎮 Senior Site Reliability Engineer
+⚙️ Senior Site Reliability Engineer
 
 Keeping platforms alive by day, building tools and games by night.
 
