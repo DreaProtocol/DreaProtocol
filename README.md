@@ -6,7 +6,7 @@ Keeping platforms alive by day, building tools and games by night.
 
 I'm a Senior Site Reliability Engineer and Java Middleware SME with experience supporting enterprise platforms, JDK package management, F5/ASM security infrastructure, automation, and large-scale troubleshooting.
 
-My current focus is automation engineering, developer tooling, and software development. I'm actively building C# and Unity projects while working toward a future role in Tools Engineering or Automation Engineering.
+My current focus is automation engineering, developer tooling, and software development. I'm actively building C# and Unity projects while expanding my software engineering skills and preparing for a future role in Tools Engineering or Automation Engineering.
 
 ---
 
@@ -50,10 +50,10 @@ Current areas of focus:
 - Secure Platform Operations
 
 ### Automation
+- Python
 - Ansible
 - Chef
 - Habitat
-- Python
 - PowerShell
 - Bash
 
